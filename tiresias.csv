@@ -1,3 +1,4 @@
-Paradas|1234567|Parada 96: Constitución|10 minutos|Corrientes y Santa fe, Ramos Mejía;
-Paradas|456789123|Parada 96: Laferrere|15 minutos|Córdiba y Belgrano, Morón;
-Paradas|7654321|Parada 242: Morón, San Justo|30 minutos|Mitre y Roca, Morón;
+1|Paradas|fda50693-a4e2-4fb1-afcf-c6eb07647820|Parada 96: Constitución|10 minutos|Florencio Varela y Zapiola, San Justo;
+2|Paradas|fda50693-a4e2-4fb1-afcf-c6eb07647822|Parada 96: Laferrere|15 minutos|Florencio Varela y Ombú, San Justo;
+3|Paradas|fda50693-a4e2-4fb1-afcf-c6eb07647821|Hospital||Mitre y Vergara, Morón;
+3|Paradas|fda50693-a4e2-4fb1-afcf-c6eb07647821|Biblioteca Nacional para Ciegos||Vicente Lopez y Arieta, Morón;
